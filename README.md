@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I am Erwin a 18 year old front-end web developer.<br>I am interested in full-stack web development and AI.<br>I currently improving my front-end web development skills.
+A 18 year old front-end web developer.<br> Interested in full-stack web development and AI.
 
 
 # 💻 Tech Stack:
